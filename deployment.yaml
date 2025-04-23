@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: ivolve-webapp
-        image: hagert/ivolve-webapp:63
+        image: hagert/ivolve-webapp:64
         imagePullPolicy: Always 
         
         ports:
